@@ -11,8 +11,7 @@ I am a web designer. I started my coding journey in 2020 after having learned UI
 * UI/UX
 
 
-[I'm an inline-style link](https://www.google.com)
-https://serene-banach-d287d1.netlify.app/
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kindnessrho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ksam5639)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kindnessrho.netlify.app/)  
