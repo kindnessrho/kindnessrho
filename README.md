@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Kindness
-#### Web Design And UI/UX
+#### Web Developer And UI/UX
 
 
-I am a web designer. I started my coding journey in 2020 after having learned UI/UX design. I realized I did not just want to design user interfaces but also bring my designs to life through coding. 
+I am a web developer. I started my coding journey in 2020. After having learned UI/UX design, I realized I did not just want to design user interfaces but also bring my designs to life through coding. 
 
 
 ## Skills And Experience
