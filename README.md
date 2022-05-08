@@ -6,7 +6,9 @@ I am a web developer. I started my coding journey in 2020. After having learned 
 
 
 ## Skills And Experience
-* HTML/CSS
+* HTML/CSS/Tailwindcss
+* PHP
+* Laravel
 * JAVASCRIPT
 * UI/UX
 
